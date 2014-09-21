@@ -1,0 +1,6 @@
+name: FireworkOnJoin
+version: 1.0
+description: Launches A Firework When A Player Joins!
+author: RW_Craft
+main: me.rw_craft.fwonjoin.Main
+    
